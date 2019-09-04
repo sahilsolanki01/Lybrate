@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lybrate</string>
+    <string name="search_text">Search for restaurants, dishes...</string>
+    <string name="button_text">Search</string>
+</resources>
